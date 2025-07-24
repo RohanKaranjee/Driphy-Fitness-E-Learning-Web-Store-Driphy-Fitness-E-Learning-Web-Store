@@ -65,6 +65,6 @@ Code and assets are protected and cannot be reused or distributed.
 ## 📫 Contact
 
 📌 Rohona Karanje — Full-Stack Developer  
-📧 your.email@example.com  
-🌐 [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com)
+📧 rohankaranje30@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/rohan-karanje-b34003249/) 
 EOF

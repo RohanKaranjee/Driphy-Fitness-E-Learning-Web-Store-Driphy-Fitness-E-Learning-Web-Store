@@ -18,11 +18,17 @@ A professional-grade fitness and digital course-selling platform built for **Dri
 
 | | |
 |--|--|
-| ![Screenshot 1](./images/screenshot1.png) | ![Screenshot 2](./images/screenshot2.png) |
-| ![Screenshot 3](./images/screenshot3.png) | ![Screenshot 4](./images/screenshot4.png) |
-| ![Screenshot 5](./images/screenshot5.png) | ![Screenshot 6](./images/screenshot6.png) |
-| ![Screenshot 7](./images/screenshot7.png) | ![Screenshot 8](./images/screenshot8.png) |
-| ![Screenshot 9](./images/screenshot9.png) | ![Screenshot 10](./images/screenshot10.png) |
+## 🖼️ Screenshots
+
+| | |
+|--|--|
+| ![Screenshot 1](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20124729.png) | ![Screenshot 2](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20124903.png) |
+| ![Screenshot 3](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20125024.png) | ![Screenshot 4](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132253.png) |
+| ![Screenshot 5](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132335.png) | ![Screenshot 6](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132401.png) |
+| ![Screenshot 7](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132416.png) | ![Screenshot 8](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132500.png) |
+| ![Screenshot 9](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132607.png) | ![Screenshot 10](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132617.png) |
+| ![Screenshot 11](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132633.png) | ![Screenshot 12](./Driphy-Fitness-E-Learning-Web-Store-Driphy-Fitness-E-Learning-Web-Store/Screenshots/Screenshot%202025-07-24%20132653.png) |
+
 
 ---
 
